@@ -1,1 +1,1 @@
-# osTicekt-Ticket-Life-Cycle
+# osTicket-Ticket-Life-Cycle-Examples
