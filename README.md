@@ -26,49 +26,47 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 <br />
-In this project we will look at creating tickets and assigning them to individuals to complete and then closing out those tickets. 
+In this project we will look at creating tickets and assigning them to individuals to complete and then closing out those tickets. osTicket was set up on a VM through Azure.
 </p>
 <p>
 <br />
 STEP 1 – CREATING TICKETS
 <p>
-Go to portal.azure.com to set up a VM (you can create a free account with $200 credit here https://azure.microsoft.com/en-us/free/). 
+A URL for end users to start a ticket is localhost/osTicket/ as seen in EXAMPLE 1A. For this ticket we will create a high priority ticket of a Business Critical Outage shown in EXAMPLE 1B.
 <p>
 EXAMPLE 1A
 <p>
-<img src="https://i.imgur.com/PowGPR4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-The next web page you will input several items as shown in EXAMPLE 1B & 1C such as Resource Group, Virtual Machine etc. Ensure to have the inputs be the same as the example photo.
-</p>
-EXAMPLE 1B
-<p>
-<img src="https://i.imgur.com/ShRYyCV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FrdYxRE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <br />
-For the “Administrator account” section ensure to create username and password credentials that will be required on future steps.
+</p>
+EXAMPLE 1B
+<img src="https://i.imgur.com/zBd1eoD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<br />
+Additionally, two other tickets were created for this project. One was a general inquiry from Matt Hershey and another System Issues logging into Adobe by Heidi Sanders, see EXAMPLE 1C.
 </p>
 <br />
 EXAMPLE 1C
-<p>
-<img src="https://i.imgur.com/cdiXyVD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xBBZHqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then select “Networking” at the top of the page and make sure the inputs match EXAMPLE 1D then select “Review and Create”.
+<br />
+STEP 2 – ADDING INPUT AND ASSIGNING TICKETS
 </p>
 <br />
-EXAMPLE 1D
+EXAMPLE 2A
 <p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EPsgYzW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-line
+See below that the ticket was transferred to myself (Michael Bibelheimer) however there is an alert due to this ticket not being addressed faster due to the SLA set for SEV-A and is “Marked overdue!”. Additionally, you can view the input items for anyone who opens the ticket to provide any additional comments.
 </p>
 <br />
-EXAMPLE 1D
-<p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EXAMPLE 2B
+<img src="https://i.imgur.com/WgbXK6m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 line
