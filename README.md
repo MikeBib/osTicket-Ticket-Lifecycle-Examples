@@ -60,7 +60,7 @@ EXAMPLE 1C
 STEP 2 – ADDING INPUT AND ASSIGNING TICKETS
 </p>
 <br />
-On the "Tickets" page shown in EXAMPLE 2A we are able to edit the created ticket setting the priority, department, SLA Plan, etc. All edits to the ticket are logged in the ticket thread until it is closed out.
+On the "Tickets" tab shown in EXAMPLE 2A we are able to edit the created ticket setting the priority, department, SLA Plan, etc. All edits to the ticket are logged in the ticket thread until it is closed out.
 </p>
 <br />
 EXAMPLE 2A
@@ -75,17 +75,19 @@ EXAMPLE 2B
 <img src="https://i.imgur.com/WgbXK6m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When the tickets have been assigned and along with priority designation we will have osTicket displaying the following now as showing in EXAMPLE 2C.
+When the tickets have been assigned, along with priority designation we will have osTicket displaying the following as showing in EXAMPLE 2C. Note "Priority" and "Assigned To" column in contrast to EXAMPLE 1C.
 </p>
 <br />
 EXAMPLE 2C
 <img src="https://i.imgur.com/Aum1jNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+</p>
 <p>
 STEP 3 – CLOSING TICKETS
 </p>
 <br />
-Logging in as Jane Doe we see that she has been assigned the ticket “When Are We Getting a Hardware Refresh”. When she logs into the tickets that are assigned to her she is able to open and add comments. After she emails Matt Hershey about the status she replies to the ticket and then selects “Resolved”. Later Michael closes out the ticket and we can see all activity pertaining to this ticket. See EX 3A
+Logging in as Jane Doe, we see that she has been assigned the ticket “When Are We Getting a Hardware Refresh”. When she logs into the tickets that are assigned to her she is able to open and add comments. After she emails Matt Hershey about the status, she replies to the ticket and then selects “Resolved”. Later Michael finally closes out the ticket. We can see all activity pertaining to this ticket in EXAMPLE 3A
 </p>
 <br />
 EXAMPLE 3A
@@ -96,4 +98,4 @@ EXAMPLE 3A
 
 </p>
 <br />
-END OF PROJECT
+END OF TUTORIAL
