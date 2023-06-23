@@ -69,22 +69,25 @@ EXAMPLE 2B
 <img src="https://i.imgur.com/WgbXK6m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-line
+When the tickets have been assigned and along with priority designation we will have osTicket displaying the following now as showing in EXAMPLE 2C.
 </p>
 <br />
-EXAMPLE 1D
-<p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EXAMPLE 2C
+<img src="https://i.imgur.com/Aum1jNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-line
-</p>
-<br />
-EXAMPLE 1D
-<p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-line
+STEP 3 – CLOSING TICKETS
 </p>
 <br />
+Logging in as Jane Doe we see that she has been assigned the ticket “When Are We Getting a Hardware Refresh”. When she logs into the tickets that are assigned to her she is able to open and add comments. After she emails Matt Hershey about the status she replies to the ticket and then selects “Resolved”. Later Michael closes out the ticket and we can see all activity pertaining to this ticket. See EX 3A
+</p>
+<br />
+EXAMPLE 3A
+<p>
+<img src="https://i.imgur.com/LqQ4Z5T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+END OF PROJECT
