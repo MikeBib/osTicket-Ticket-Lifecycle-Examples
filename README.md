@@ -18,16 +18,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- STEP 1 - Creating the Virtual Machine Through Azure
-- STEP 2
-- STEP 3
-- STEP 4
-- STEP 5
-- STEP 6
+- STEP 1 - CREATING TICKETS
+- STEP 2 - ADDING INPUT AND ASSIGNING TICKETS
+- STEP 3 - CLOSING TICKETS
 
 <h2>Installation Steps</h2>
-
-STEP 1 – Creating Virtual Machine Through Azure
+</p>
+<p>
+<br />
+In this project we will look at creating tickets and assigning them to individuals to complete and then closing out those tickets. 
+</p>
+<p>
+<br />
+STEP 1 – CREATING TICKETS
 <p>
 Go to portal.azure.com to set up a VM (you can create a free account with $200 credit here https://azure.microsoft.com/en-us/free/). 
 <p>
