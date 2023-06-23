@@ -25,7 +25,10 @@ This tutorial outlines the lifecycle of Help Desk ticekts using the osTicket sof
 </p>
 <p>
 <br />
-In this project we will look at creating tickets and assigning them to individuals to complete and then closing out those tickets. osTicket was set up on a VM through Azure.
+In this project we will look at creating tickets and assigning them to individuals to complete and then closing out those tickets. osTicket was set up on a vitural machine through Azure.
+</p>
+<p>
+<br />
 </p>
 <p>
 <br />
@@ -33,6 +36,7 @@ STEP 1 – CREATING TICKETS
 <p>
 A URL for end users to start a ticket is localhost/osTicket/ as seen in EXAMPLE 1A. For this ticket we will create a high priority ticket of a Business Critical Outage shown in EXAMPLE 1B.
 <p>
+<br />
 EXAMPLE 1A
 <p>
 <img src="https://i.imgur.com/FrdYxRE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -45,7 +49,7 @@ EXAMPLE 1B
 </p>
 <p>
 <br />
-Additionally, two other tickets were created for this project. One was a general inquiry from Matt Hershey and another System Issues logging into Adobe by Heidi Sanders, see EXAMPLE 1C.
+Additionally, two other tickets were created for this project. One is a General Inquiry from Matt Hershey and System Issues logging into Adobe by Heidi Sanders, see EXAMPLE 1C.
 </p>
 <br />
 EXAMPLE 1C
@@ -54,6 +58,9 @@ EXAMPLE 1C
 <p>
 <br />
 STEP 2 – ADDING INPUT AND ASSIGNING TICKETS
+</p>
+<br />
+On the "Tickets" page shown in EXAMPLE 2A we are able to edit the created ticket setting the priority, department, SLA Plan, etc. All edits to the ticket are logged in the ticket thread until it is closed out.
 </p>
 <br />
 EXAMPLE 2A
