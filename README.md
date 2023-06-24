@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle</h1>
-This tutorial outlines the lifecycle of Help Desk ticekts using the osTicket software.
+This tutorial outlines the lifecycle of Help Desk tickets using the osTicket software.
 
 <h2>Environments and Technologies Used</h2>
 
